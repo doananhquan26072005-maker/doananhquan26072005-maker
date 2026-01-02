@@ -8,7 +8,6 @@
 👋 Name        : Doan Anh Quan
 🎓 Major       : Mathematics & Computer Science
 🏫 University  : University of Science  - VNUHCM
-⚽ Hobby       : Reading, Games
 🌍 Location    : Vietnam
 ⚔️ *Codeforces*: [quanpk07](https://codeforces.com/profile/quanpk07)
 

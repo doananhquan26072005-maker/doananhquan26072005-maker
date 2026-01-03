@@ -49,6 +49,6 @@ When I'm not coding or solving equations, you can find me:
 
 ### 📫 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/anh-quân-đoàn-a497853a2/)
-* [Email](doananhquan26072005@gmail.com)
+* Email: [doananhquan26072005](doananhquan26072005@gmail.com)
 * [Facebook](https://www.facebook.com/doananhquan.2607)
 

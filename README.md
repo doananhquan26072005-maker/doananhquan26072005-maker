@@ -51,11 +51,4 @@ When I'm not coding or solving equations, you can find me:
 * [LinkedIn](Link-LinkedIn-Của-Bạn)
 * [Email](doananhquan26072005@gmail.com)
 * [Facebook](https://www.facebook.com/doananhquan.2607)
-⚔️ *Codeforces*: [quanpk07](https://codeforces.com/profile/quanpk07)
-
-## 🛠️ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&perline=6" />
-</p>
 

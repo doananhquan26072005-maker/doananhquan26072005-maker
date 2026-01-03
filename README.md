@@ -31,6 +31,13 @@ I am an aspiring developer with a rigorous academic background, combining logica
 * ⚡ **Interests:** I have a strong passion for competitive programming and exploring how advanced mathematics applies to software engineering.
 
 ---
+## ⚙️ WHAT I’M FOCUSING ON
+* 🧩 Data Structures & Algorithms  
+* 💻 Software & System Programming  
+* 🔎 Problem Solving  
+* 🚀 Continuous Learning
+  
+---
 
 ### 🧩 Fun Facts
 When I'm not coding or solving equations, you can find me:
@@ -52,15 +59,3 @@ When I'm not coding or solving equations, you can find me:
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode&perline=6" />
 </p>
 
-
-## ⚙️ WHAT I’M FOCUSING ON
-
-- 🧩 Data Structures & Algorithms  
-- 💻 Software & System Programming  
-- 🔎 Problem Solving  
-- 🚀 Continuous Learning
-
-## 📫 CONTACT
-
-- 📧 Email: *doananhquan26072005@gmail.com*
-- 🌐 Facebook: [https://www.facebook.com/doananhquan.2607](https://www.facebook.com/doananhquan.2607)
